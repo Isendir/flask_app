@@ -1,0 +1,2 @@
+#Configurazione
+## Static file urls
